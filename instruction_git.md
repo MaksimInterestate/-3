@@ -55,4 +55,8 @@ New info about git init added <- Имя коммита
 
     git checkout 2546f6b 
 
+Чтобы вернуться в коммит в котором работаем используем команду
 
+    git checkout master
+
+## Сравнение версий 
