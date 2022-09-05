@@ -75,8 +75,11 @@ New info about git init added <- Имя коммита
     git diff 82e3d9b bef8de7
 
 
-<<<<<<< HEAD
 ## Ветвление
-=======
-## Ветвление 
->>>>>>> branching
+
+--общая информация о ветвлении--
+
+Для создани новой ветки используется команда:
+
+    git brancg <branch_name>
+
