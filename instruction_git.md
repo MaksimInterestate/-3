@@ -75,4 +75,8 @@ New info about git init added <- Имя коммита
     git diff 82e3d9b bef8de7
 
 
+<<<<<<< HEAD
 ## Ветвление
+=======
+## Ветвление 
+>>>>>>> branching
