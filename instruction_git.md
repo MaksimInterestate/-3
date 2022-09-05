@@ -83,3 +83,5 @@ New info about git init added <- Имя коммита
 
     git brancg <branch_name>
 
+## Слияние веток
+~~информиация о слиянии веток
