@@ -112,6 +112,7 @@ New info about git init added <- Имя коммита
 
     git branch -d <branch_name>
 
+## Переключение между ветками
 
 
 
