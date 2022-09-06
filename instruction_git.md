@@ -108,3 +108,4 @@ New info about git init added <- Имя коммита
     git merge <branch_name>
 
 
+## Ветвление
