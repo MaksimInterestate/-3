@@ -93,13 +93,11 @@ New info about git init added <- Имя коммита
     git merge <branch_name>
 
 
-
-
 --общая информация о ветвлении--
 
 Для создани новой ветки используется команда:
 
-    git brancg <branch_name>
+    git branch <branch_name>
 
 ## Слияние веток
 ~~информиация о слиянии веток
@@ -108,3 +106,4 @@ New info about git init added <- Имя коммита
     git merge <branch_name>
 
 
+## Ветвление
