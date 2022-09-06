@@ -100,6 +100,12 @@ New info about git init added <- Имя коммита
 
     git merge <branch_name>
     
+## Удаление ветки
+
+Для удаления ветки <branch_name> используем следующую команду:
+
+    git branch -d <branch_name>
+
 
 
 
