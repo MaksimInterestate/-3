@@ -108,8 +108,7 @@ New info about git init added <- Имя коммита
 
 ИНФО
 ИФНО
-ИНФО
-ИНФО
+
 
 
 
