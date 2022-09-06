@@ -100,16 +100,11 @@ New info about git init added <- Имя коммита
 
     git merge <branch_name>
     
-
-
-<<<<<<< HEAD
 ## Слияние веток
-=======
-### Слияние веток
+
 для этого нужно переключиться в ветку master и выполнить следующую команду:
 
     git merge <branch_name>
 
-##### Команда слияния
->>>>>>> 3branch
+
 
