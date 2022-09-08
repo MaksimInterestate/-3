@@ -126,5 +126,6 @@ New info about git init added <- Имя коммита
     git status
 
     
+## Удаленные репозитории
 
 
